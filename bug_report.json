@@ -1,5 +1,5 @@
 {
-  "Bug_id": 1
+"Bug_id": 1
 "Description": "The settings of the Small size widget do not open when you click on it on the main screen of the smartphone and / or in the application.",
 "Enviroment": "IPhone 11, IOS 15.2.1",
 "Steps": "Bring a small size widget to the main screen of your smartphone, Click in the central part of the widget",
